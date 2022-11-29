@@ -1,0 +1,11 @@
+{
+    "name": "Destroyer",
+    "description": "You walk the path of destruction.",
+    "powers": [
+        "the_beginning:destroy"
+    ],
+    "icon": {
+        "item": "minecraft:tnt"
+    },
+    "impact": 1
+}

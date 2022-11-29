@@ -1,0 +1,11 @@
+{
+    "name": "Destruction",
+    "description": "You deal slightly more damage.",
+    "type": "origins:attribute",
+    "modifier": {
+        "attribute": "generic.attack_damage",
+        "operation": "addition",
+        "value": 1
+    },
+    "update_health": false
+}

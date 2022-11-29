@@ -1,0 +1,11 @@
+{
+    "name": "Architect",
+    "description": "You walk the path of a builder.",
+    "powers": [
+        "the_beginning:builder"
+    ],
+    "icon": {
+        "item": "minecraft:stone_bricks"
+    },
+    "impact": 1
+}

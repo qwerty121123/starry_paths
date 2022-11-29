@@ -1,0 +1,11 @@
+{
+    "name": "Enchanter",
+    "description": "You walk the path of an enchanter.",
+    "powers": [
+        "the_beginning:xp"
+    ],
+    "icon": {
+        "item": "minecraft:enchanting_table"
+    },
+    "impact": 1
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Champion",
+    "description": "You walk the path of a warrior",
+    "powers": [
+        "the_beginning:warrior"
+    ],
+    "icon": {
+        "item": "minecraft:iron_sword"
+    },
+    "impact": 1
+}

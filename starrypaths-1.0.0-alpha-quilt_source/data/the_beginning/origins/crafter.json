@@ -1,0 +1,11 @@
+{
+    "name": "Alchemist",
+    "description": "You walk the path of an alchemist.",
+    "powers": [
+        "the_beginning:goldsmith"
+    ],
+    "icon": {
+        "item": "minecraft:brewing_stand"
+    },
+    "impact": 1
+}

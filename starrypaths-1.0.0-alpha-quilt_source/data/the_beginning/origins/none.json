@@ -1,0 +1,11 @@
+{
+    "name": "Purity",
+    "description": "You start with no path.",
+    "powers": [
+        "the_beginning:none"
+    ],
+    "icon": {
+        "item": "minecraft:snowball"
+    },
+    "impact": 0
+}

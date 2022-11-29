@@ -1,0 +1,9 @@
+{
+    "name": "Harvester",
+    "description": "As an enchanter, you receive more experience.",
+    "type": "origins:modify_xp_gain",
+    "modifier": {
+        "operation": "addition",
+        "value": 5
+    }
+}

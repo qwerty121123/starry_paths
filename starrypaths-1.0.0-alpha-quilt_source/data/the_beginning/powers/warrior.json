@@ -1,0 +1,11 @@
+{
+    "name": "Armored",
+    "description": "You always have a slight amount of armor.",
+    "type": "origins:attribute",
+    "modifier": {
+        "attribute": "generic.armor",
+        "operation": "addition",
+        "value": 1
+    },
+    "update_health": false
+}

@@ -1,0 +1,13 @@
+{
+    "order": 20,
+    "origins": [
+        "the_beginning:builder",
+        "the_beginning:champion",
+        "the_beginning:crafter",
+        "the_beginning:destroyer",
+        "the_beginning:none",
+        "the_beginning:enchanter"
+    ],
+    "enabled": true,
+    "name": "Path"
+}

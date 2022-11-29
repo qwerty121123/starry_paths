@@ -1,0 +1,32 @@
+{
+    "name": "Alchemy",
+    "description": "Turn a iron bar and a gold nugget into a gold bar in a crafting table, when near a brewing stand.",
+    "condition": {
+        "type": "origins:block_in_radius",
+        "block_condition": {
+            "type": "origins:block",
+            "block": "minecraft:brewing_stand"
+        },
+        "radius": 5,
+        "shape": "sphere",
+        "comparison": ">=",
+        "compare_to": 1
+    },
+    "type": "origins:recipe",
+    "recipe": {
+        "id": "the_beginning:goldsmith",
+        "type": "minecraft:crafting_shapeless",
+        "ingredients": [
+            {
+                "item": "minecraft:gold_nugget"
+            },
+            {
+                "item": "minecraft:iron_ingot"
+            }
+        ],
+        "result": {
+            "item": "minecraft:gold_ingot",
+            "count": 1
+        }
+    }
+}
